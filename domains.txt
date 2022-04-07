@@ -1,0 +1,5 @@
+gratiadei.org -> ip
+*.gratiadei.org -> ip
+source.gratiadei.org -> https://github.com/gratia-dei/gratia-dei
+gratiadei.pl -> pl.gratiadei.org
+*.gratiadei.pl -> gratiadei.pl
