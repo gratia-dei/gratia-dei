@@ -1,11 +1,11 @@
 <?php
 
 class Main {
-    private const LANGUAGES = ['pl', 'en'];
+    private const LANGUAGES = ['pl', /*to uncomment later: 'en'*/];
     private const MISSING_VARIABLE_TEXT = '!!!';
 
     private const TEMPLATE_FILE_PATH = 'index.html';
-    private const VARIABLES_FILE_PATH = 'variables.json';
+    private const VARIABLES_FILE_PATH = 'language_variables.json';
 
     public function run(): void {
         try {

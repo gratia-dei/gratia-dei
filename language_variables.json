@@ -1,0 +1,227 @@
+{
+    "background-photo-attribution": {
+        "pl": "Fotografia tła Paul Zoetemeijer na <a href=\"https://unsplash.com/photos/fqa7yvnx280\">Unsplash</a>",
+        "en": "Background photo by Paul Zoetemeijer on <a href=\"https://unsplash.com/photos/fqa7yvnx280\">Unsplash</a>"
+    },
+
+
+
+    "motto-anchor": {
+        "pl": "motto",
+        "en": "motto"
+    },
+
+
+
+    "about-us-subtitle": {
+        "pl": "O nas",
+        "en": "About us"
+    },
+    "about-us-anchor": {
+        "pl": "o-nas",
+        "en": "about-us"
+    },
+    "about-us-description-1": {
+        "pl": "„Gratia Dei” (z łac. „Łaska Boża”), to inicjatywa rozgłaszania światu nauki Kościoła Rzymskokatolickiego poprzez różnorakie autorskie <a href\"#projekty\">projekty</a> i współpracę z innymi dla Bożej Chwały!",
+        "en": "[...todo en...]"
+    },
+    "about-us-description-2": {
+        "pl": "Każde dobro, jakie możemy w sobie odnaleźć, pochodzi od Boga. Pragnąc być użytecznymi „narzędziami” zgodnymi z Jego wolą, chcemy poświęcać jak naszego najwięcej czasu, sił i talentów, aby rozpowszechniać Jego królestwo już na tym świecie i pokazywać wszystkim piękno Jego Kościoła oraz prawdziwość Jego drogi, która może niezawodnie poprowadzić każdego do wielkiego szczęścia już teraz!",
+        "en": "[...todo en...]"
+    },
+
+
+
+    "contact-subtitle": {
+        "pl": "Kontakt",
+        "en": "Contact"
+    },
+    "contact-anchor": {
+        "pl": "kontakt",
+        "en": "contact"
+    },
+    "contact-email": {
+        "pl": "gratiadei@gratiadei.org",
+        "en": "gratiadei@gratiadei.org"
+    },
+
+
+
+    "motto-original": {
+        "pl": "„Omne bonum nostrum gratia Dei est”",
+        "en": "„Omne bonum nostrum gratia Dei est”"
+    },
+    "motto": {
+        "pl": "Całe nasze dobro Bożą jest łaską",
+        "en": "All our good is the grace of God"
+    },
+
+
+
+    "near-and-dear-subtitle": {
+        "pl": "Bliscy naszemu sercu",
+        "en": "Near and dear"
+    },
+    "near-and-dear-anchor": {
+        "pl": "bliscy-naszemu-sercu",
+        "en": "nead-and-dear"
+    },
+    "near-and-dear-description": {
+        "pl": "Już wkrótce ...",
+        "en": "[...todo en...]"
+    },
+
+
+
+    "news-subtitle": {
+        "pl": "Aktualności",
+        "en": "News"
+    },
+    "news-anchor": {
+        "pl": "aktualnosci",
+        "en": "news"
+    },
+    "news-description": {
+        "pl": "Już wkrótce ...",
+        "en": "[...todo en...]"
+    },
+
+
+
+    "other-language-code": {
+        "pl": "EN",
+        "en": "PL"
+    },
+    "other-language-href": {
+        "pl": "https://en.gratiadei.org",
+        "en": "https://pl.gratiadei.org"
+    },
+
+
+
+    "projects-subtitle": {
+        "pl": "Projekty",
+        "en": "Projects"
+    },
+    "projects-anchor": {
+        "pl": "projekty",
+        "en": "projects"
+    },
+    "projects-description-main": {
+        "pl": "Oto niektóre nasze projekty:",
+        "en": "[...todo en...]"
+    },
+    "projects-description-1-header": {
+        "pl": "Moi Patroni",
+        "en": "My Patrons"
+    },
+    "projects-description-1-link": {
+        "pl": "https://MoiPatroni.pl",
+        "en": "https://en.MyPatrons.org"
+    },
+    "projects-description-1": {
+        "pl": "Inicjatywa umożliwia każdemu zapraszanie świętych i błogosławionych Kościoła Katolickiego do grona swoich patronów. Darmowy i niezobowiązujący udział, poprzez różnorodne wyzwania i aktywności, otworzy nam szeroko drzwi do ogromnego bogactwa i piękna Kościoła. Każdego dnia na naszej drodze pojawiać się będą kolejni patroni, którzy będą zachęcać nas do ich zaproszenia i dalszego poznawania, do organizowania wypraw poszukiwawczych szlakiem relikwii, kościołów czy ołtarzy bocznych pod ich patronatem, ale przede wszystkich będą motywować do regularnego czytania Pisma Świętego, przyjmowania Sakramentów, adorowania Jezusa w Hostii ukrytego, trwania na modlitwie różańcowej i nie tylko.",
+        "en": "[...todo en...]"
+    },
+    "projects-description-2-header": {
+        "pl": "Patrons Space",
+        "en": "Patrons Space"
+    },
+    "projects-description-2-link": {
+        "pl": "https://pl.patrons.space",
+        "en": "https://en.patrons.space"
+    },
+    "projects-description-2": {
+        "pl": "To stale uzupełniana, wielojęzyczna baza wiedzy o wszystkich świętych i błogosławionych! Oprócz podstawowych informacji o nich, znajdziemy tu różne zestawienia, możliwość wglądu do oryginalnych treści martyrologiów rzymskich, a w powiązaniu z inicjatywą „Moich Patronów”, zbudujemy swoją własną talię kart kolekcjonerskich z patronami, aby grać z przyjaciółmi, układać samodzielnie lub oglądać w albumie.",
+        "en": "[...todo en...]"
+    },
+    "projects-description-more": {
+        "pl": "i inne ...",
+        "en": "[...todo en...]"
+    },
+
+
+
+    "support-us-subtitle": {
+        "pl": "Wesprzyj nas",
+        "en": "Support us"
+    },
+    "support-us-anchor": {
+        "pl": "wesprzyj-nas",
+        "en": "support-us"
+    },
+    "support-us-description-beginning": {
+        "pl": "Możesz nam pomóc na wiele sposobów, aby nasze dzieła wciąż się rozwijały:",
+        "en": "[...todo en...]"
+    },
+    "support-us-description-1-header": {
+        "pl": "Pomódl się za nas!",
+        "en": "[...todo en...]"
+    },
+    "support-us-description-1": {
+        "pl": "Każda modlitwa i wyrzeczenie w naszej intencji to więcej Bożego błogosławieństwa i pomocy, a przecież Jezus wie najlepiej czego wszystkim potrzeba!",
+        "en": "[...todo en...]"
+    },
+    "support-us-description-2-header": {
+        "pl": "Opowiedz o nas innym!",
+        "en": "[...todo en...]"
+    },
+    "support-us-description-2": {
+        "pl": "Jeśli urzekła Cię którakolwiek z naszych inicjatyw, opowiedz o niej rodzinie, znajomym, może komuś w Twojej parafii. Każda nowa osoba może znacznie wpłynąć na rozszerzanie się tego dalej i dalej ...",
+        "en": "[...todo en...]"
+    },
+    "support-us-description-3-header": {
+        "pl": "Ofiaruj swoje talenty!",
+        "en": "[...todo en...]"
+    },
+    "support-us-description-3": {
+        "pl": "Może to właśnie Twój poświęcony czas, wiedza i merytoryczna pomoc okażą się bezcenne w budowaniu tego dzieła! Przykładowo: tłumaczenie treści stron, umięjętne zaprezentowanie idei szerszemu gronu słuchaczy, uzupełnianie bazy wiedzy naszych serwisów (np. o nowych patronów). Wszystkich możliwości nie sposób wymienić.",
+        "en": "[...todo en...]"
+    },
+    "support-us-description-4-header": {
+        "pl": "Dołóż swoją cegiełkę!",
+        "en": "[...todo en...]"
+    },
+    "support-us-description-4": {
+        "pl": "Jeżeli podoba Ci się to co robimy, możesz wspomóc nas materialnie klikając <a href=\"#support-link-href#\"><svg xmlns=\"http://www.w3.org/2000/svg\" class=\"bi bi-cup-hot-fill\" viewBox=\"0 0 16 16\"><path fill-rule=\"evenodd\" d=\"M.5 6a.5.5 0 0 0-.488.608l1.652 7.434A2.5 2.5 0 0 0 4.104 16h5.792a2.5 2.5 0 0 0 2.44-1.958l.131-.59a3 3 0 0 0 1.3-5.854l.221-.99A.5.5 0 0 0 13.5 6H.5ZM13 12.5a2.01 2.01 0 0 1-.316-.025l.867-3.898A2.001 2.001 0 0 1 13 12.5Z\"/><path d=\"m4.4.8-.003.004-.014.019a4.167 4.167 0 0 0-.204.31 2.327 2.327 0 0 0-.141.267c-.026.06-.034.092-.037.103v.004a.593.593 0 0 0 .091.248c.075.133.178.272.308.445l.01.012c.118.158.26.347.37.543.112.2.22.455.22.745 0 .188-.065.368-.119.494a3.31 3.31 0 0 1-.202.388 5.444 5.444 0 0 1-.253.382l-.018.025-.005.008-.002.002A.5.5 0 0 1 3.6 4.2l.003-.004.014-.019a4.149 4.149 0 0 0 .204-.31 2.06 2.06 0 0 0 .141-.267c.026-.06.034-.092.037-.103a.593.593 0 0 0-.09-.252A4.334 4.334 0 0 0 3.6 2.8l-.01-.012a5.099 5.099 0 0 1-.37-.543A1.53 1.53 0 0 1 3 1.5c0-.188.065-.368.119-.494.059-.138.134-.274.202-.388a5.446 5.446 0 0 1 .253-.382l.025-.035A.5.5 0 0 1 4.4.8Zm3 0-.003.004-.014.019a4.167 4.167 0 0 0-.204.31 2.327 2.327 0 0 0-.141.267c-.026.06-.034.092-.037.103v.004a.593.593 0 0 0 .091.248c.075.133.178.272.308.445l.01.012c.118.158.26.347.37.543.112.2.22.455.22.745 0 .188-.065.368-.119.494a3.31 3.31 0 0 1-.202.388 5.444 5.444 0 0 1-.253.382l-.018.025-.005.008-.002.002A.5.5 0 0 1 6.6 4.2l.003-.004.014-.019a4.149 4.149 0 0 0 .204-.31 2.06 2.06 0 0 0 .141-.267c.026-.06.034-.092.037-.103a.593.593 0 0 0-.09-.252A4.334 4.334 0 0 0 6.6 2.8l-.01-.012a5.099 5.099 0 0 1-.37-.543A1.53 1.53 0 0 1 6 1.5c0-.188.065-.368.119-.494.059-.138.134-.274.202-.388a5.446 5.446 0 0 1 .253-.382l.025-.035A.5.5 0 0 1 7.4.8Zm3 0-.003.004-.014.019a4.077 4.077 0 0 0-.204.31 2.337 2.337 0 0 0-.141.267c-.026.06-.034.092-.037.103v.004a.593.593 0 0 0 .091.248c.075.133.178.272.308.445l.01.012c.118.158.26.347.37.543.112.2.22.455.22.745 0 .188-.065.368-.119.494a3.198 3.198 0 0 1-.202.388 5.385 5.385 0 0 1-.252.382l-.019.025-.005.008-.002.002A.5.5 0 0 1 9.6 4.2l.003-.004.014-.019a4.149 4.149 0 0 0 .204-.31 2.06 2.06 0 0 0 .141-.267c.026-.06.034-.092.037-.103a.593.593 0 0 0-.09-.252A4.334 4.334 0 0 0 9.6 2.8l-.01-.012a5.099 5.099 0 0 1-.37-.543A1.53 1.53 0 0 1 9 1.5c0-.188.065-.368.119-.494.059-.138.134-.274.202-.388a5.446 5.446 0 0 1 .253-.382l.025-.035A.5.5 0 0 1 10.4.8Z\"/></svg></a>. Każda wpłacona kwota to więcej czasu i środków, jakie będziemy w stanie przeznaczyć na realizację naszych celów!",
+        "en": "[...todo en...]"
+    },
+    "support-us-description-5-header": {
+        "pl": "Dziel się pomysłami!",
+        "en": "[...todo en...]"
+    },
+    "support-us-description-5": {
+        "pl": "Jeżeli wiesz co moglibyśmy robić lepiej lub znajdziesz jakiś błąd, <a href=\"#kontakt\">skontaktuj się</a> z nami. Nie możemy obiecać, że uwzględnimy wszystkie Twoje sugestie, ale na pewno głęboko się nad nimi zastanowimy.",
+        "en": "[...todo en...]"
+    },
+    "support-us-description-final": {
+        "pl": "Za każde udzielone wsparcie, wielkie Bóg zapłać!",
+        "en": "[...todo en...]"
+    },
+
+
+
+    "license": {
+        "pl": "Treść udostępniona na licencji <a href=\"#source-link-href#\">CC BY-SA 4.0</a>, jeśli nie podano inaczej.",
+        "en": "Content is available under <a href=\"#source-link-href#\">CC BY-SA 4.0</a> unless otherwise noted."
+    },
+
+    "copyright": {
+        "pl": "©2022 Prywatna Inicjatywa „#name#”",
+        "en": "©2022 Private Initiative \"#name#\""
+    },
+
+    "source-link-href": {
+        "pl": "https://source.gratiadei.org",
+        "en": "https://source.gratiadei.org"
+    },
+    "support-link-href": {
+        "pl": "https://buycoffee.to/gratia-dei",
+        "en": "https://buycoffee.to/gratia-dei"
+    },
+
+    "name": {
+        "pl": "gratiaDei.org",
+        "en": "gratiaDei.org"
+    }
+}
