@@ -202,8 +202,8 @@
 
 
     "license": {
-        "pl": "Treść udostępniona na licencji <a href=\"#source-link-href#\">CC BY-SA 4.0</a>, jeśli nie podano inaczej.",
-        "en": "Content is available under <a href=\"#source-link-href#\">CC BY-SA 4.0</a> unless otherwise noted."
+        "pl": "Treść udostępniona na licencji <a href=\"#source-link-href##license\">CC BY-SA 4.0</a>, jeśli nie podano inaczej.",
+        "en": "Content is available under <a href=\"#source-link-href##license\">CC BY-SA 4.0</a> unless otherwise noted."
     },
 
     "copyright": {
