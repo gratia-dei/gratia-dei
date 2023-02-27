@@ -1,6 +1,6 @@
 # Gratia Dei
 
-This project contains the content of the main website of the initiative "gratiaDei.org".
+This project contains the content of the main website of the initiative "gratiaDei.org" and is available on [https://gratiaDei.org](https://gratiaDei.org).
 
 # License
 
