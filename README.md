@@ -4,7 +4,7 @@ This project contains the content of the main website of the initiative "gratiaD
 
 # License
 
-Copyright (c) 2022 Private Initiative "gratiaDei.org" by Andrzej Precz
+Copyright (c) 2020 Private Initiative "gratiaDei.org" by Andrzej Precz
 
 
 The content of this project itself is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode) unless otherwise noted.
