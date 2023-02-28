@@ -57,10 +57,10 @@ svg {
   width: 30px;
   height: 30px;
 }
-.bi {
-  fill: white;
+:hover {
+  fill: currentColor;
 }
-.bi-box-arrow-up-right, .bi-github, .bi-cup-hot-fill:hover {
+.bi {
   fill: currentColor;
 }
 .bi-cup-hot-fill {
