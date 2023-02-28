@@ -1,7 +1,7 @@
 {
     "background-photo-attribution": {
-        "pl": "Fotografia tła Paul Zoetemeijer na <a href=\"https://unsplash.com/photos/fqa7yvnx280\">Unsplash</a>",
-        "en": "Background photo by Paul Zoetemeijer on <a href=\"https://unsplash.com/photos/fqa7yvnx280\">Unsplash</a>"
+        "pl": "fot. Paul Zoetemeijer (<a href=\"https://unsplash.com/photos/fqa7yvnx280\">Unsplash</a>)",
+        "en": "photo by Paul Zoetemeijer (<a href=\"https://unsplash.com/photos/fqa7yvnx280\">Unsplash</a>)"
     },
 
 
@@ -41,8 +41,8 @@
         "en": "contact"
     },
     "contact-email": {
-        "pl": "gratiadei@gratiadei.org",
-        "en": "gratiadei@gratiadei.org"
+        "pl": "<a href=\"mailto:gratiadei@gratiadei.org\">gratiadei@gratiadei.org</a>",
+        "en": "<a href=\"mailto:gratiadei@gratiadei.org\">gratiadei@gratiadei.org</a>"
     },
 
 
@@ -112,7 +112,7 @@
         "en": "[...todo en...]"
     },
     "projects-description-1-header": {
-        "pl": "Moi Patroni",
+        "pl": "Moi Patroni (My Patrons)",
         "en": "My Patrons"
     },
     "projects-description-1-link": {
