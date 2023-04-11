@@ -6,7 +6,7 @@ class Main {
 
     private const RESOURCES_RELATED_PATH = '../../resources';
     private const TEMPLATE_FILE_PATH = self::RESOURCES_RELATED_PATH . '/html/index.html';
-    private const VARIABLES_FILE_PATH = self::RESOURCES_RELATED_PATH . '/json/language_variables.json';
+    private const VARIABLES_FILE_PATH = self::RESOURCES_RELATED_PATH . '/json/language-variables.json';
 
     public function run(): void {
         try {
