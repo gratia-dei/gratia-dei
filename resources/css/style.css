@@ -61,13 +61,16 @@ li.nav-item > a:hover {
 a .svg-image {
   filter: brightness(0) saturate(100%) invert(89%) sepia(4%) saturate(7%) hue-rotate(314deg) brightness(87%) contrast(88%); /* #C0C0C0 */
 }
-a .svg-image:hover {
+a:hover .svg-image {
   filter: brightness(0) saturate(100%) invert(44%) sepia(53%) saturate(4775%) hue-rotate(186deg) brightness(104%) contrast(103%) !important; /* #0093FF */
 }
 .svg-image-green {
   filter: brightness(0) saturate(100%) invert(35%) sepia(92%) saturate(1943%) hue-rotate(135deg) brightness(98%) contrast(101%) !important; /* #00A962 */
 }
 
+.language-select {
+  white-space: pre;
+}
 
 
 .background-photo-attribution {

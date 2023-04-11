@@ -1,7 +1,7 @@
 <?php
 
 class Main {
-    private const LANGUAGES = ['pl', /*to uncomment later: 'en'*/];
+    private const LANGUAGES = ['pl', 'en'];
     private const MISSING_VARIABLE_TEXT = '!!!';
 
     private const RESOURCES_RELATED_PATH = '../../resources';
