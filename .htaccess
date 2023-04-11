@@ -5,5 +5,7 @@
   RewriteBase /
 
   RewriteCond %{REQUEST_FILENAME} !-f
-  RewriteRule ^[^.]*$ index.php [L]
+
+  RewriteRule ^favicon\.ico$ /resources/ico/favicon.ico [R=301,L]
+  RewriteRule ^[^.]*$ /resources/php/index.php [L]
 </IfModule>

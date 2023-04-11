@@ -4,8 +4,9 @@ class Main {
     private const LANGUAGES = ['pl', /*to uncomment later: 'en'*/];
     private const MISSING_VARIABLE_TEXT = '!!!';
 
-    private const TEMPLATE_FILE_PATH = 'index.html';
-    private const VARIABLES_FILE_PATH = 'language_variables.json';
+    private const RESOURCES_RELATED_PATH = '../../resources';
+    private const TEMPLATE_FILE_PATH = self::RESOURCES_RELATED_PATH . '/html/index.html';
+    private const VARIABLES_FILE_PATH = self::RESOURCES_RELATED_PATH . '/json/language_variables.json';
 
     public function run(): void {
         try {

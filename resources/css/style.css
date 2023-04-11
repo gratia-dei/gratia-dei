@@ -2,7 +2,7 @@ body {
   margin: 0;
   height: 100%;
   background-color: black;
-  background: url('/background.jpg') no-repeat center top fixed;
+  background: url('/resources/jpg/background.jpg') no-repeat center top fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
