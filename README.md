@@ -7,11 +7,11 @@ This project contains the content of the main website of the initiative "gratiaD
 Copyright (c) 2020 Private Initiative "gratiaDei.org" by Andrzej Precz
 
 
-The content of this project itself is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode) unless otherwise noted.
+The content of this project itself is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) unless otherwise noted.
 
 Expected attribution notes are:
- - English: "**by gratiaDei.org is licensed under CC BY-SA 4.0**",
- - Polish: "**gratiaDei.org na licencji CC BY-SA 4.0**",
+ - English: "**by gratiaDei.org is licensed under CC BY-NC-SA 4.0**",
+ - Polish: "**gratiaDei.org na licencji CC BY-NC-SA 4.0**",
  - ... or in other languages.
 
 The underlying source code is licensed under the MIT license unless otherwise noted.
