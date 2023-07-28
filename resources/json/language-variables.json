@@ -81,9 +81,49 @@
         "pl": "aktualnosci",
         "en": "news"
     },
-    "news-description": {
-        "pl": "Już wkrótce ...",
-        "en": "Coming soon ..."
+    "news-description-main": {
+        "pl": "Oto najnowsze wydarzenia związane z naszymi projektami:",
+        "en": "We apologize! At the moment this text is only available in <a href=\"https://pl.gratiadei.org#aktualnosci\">Polish</a>."
+    },
+    "news-description-1-header": {
+        "pl": "1 sierpnia 2020:",
+        "en": ""
+    },
+    "news-description-1": {
+        "pl": "rodzi się idea zapraszania Patronów i wykonywania dla nich wyzwań, którym staramy się sprostać w gronie najbliższych.",
+        "en": ""
+    },
+    "news-description-2-header": {
+        "pl": "1 marca 2021:",
+        "en": ""
+    },
+    "news-description-2": {
+        "pl": "ruszają prace nad stronami internetowymi naszych projektów i pierwszym opisem reguł „<a href=\"https://pl.mypatrons.org\">Moich Patronów</a>”.",
+        "en": ""
+    },
+    "news-description-3-header": {
+        "pl": "1 grudnia 2021:",
+        "en": ""
+    },
+    "news-description-3": {
+        "pl": "po wielu konsultacjach, decydujemy się na rewolucyjne zmiany w „<a href=\"https://pl.mypatrons.org\">Moich Patronach</a>”. Powstają m.in. alternatywne ścieżki działania, kolorowe statusy Patronów, nowe wyzwania i osiągnięcia.",
+        "en": ""
+    },
+    "news-description-4-header": {
+        "pl": "1 lutego 2023:",
+        "en": ""
+    },
+    "news-description-4": {
+        "pl": "po kilkumiesięcznym zastoju, wznawiamy prace nad spięciem dotychczasowych efektów naszej pracy w projektach „<a href=\"https://pl.mypatrons.org\">Moich Patronów</a>” i „<a href=\"https://pl.patrons.space\">Patrons Space</a>”, by projekty te mogły wreszcie ruszyć z miejsca pod sztandarem: „<a href=\"https://pl.gratiadei.org\">Gratia Dei</a>”.",
+        "en": ""
+    },
+    "news-description-5-header": {
+        "pl": "1 sierpnia 2023:",
+        "en": ""
+    },
+    "news-description-5": {
+        "pl": "uruchamiamy pierwszą spójną wersję projektu „<a href=\"https://pl.mypatrons.org\">Moich Patronów</a>” dla szerszego grona Odbiorców. Jest jeszcze wiele do zrobienia, ale to jest dobry moment by wspólnie wypłynąć już na szersze wody!",
+        "en": ""
     },
 
 
