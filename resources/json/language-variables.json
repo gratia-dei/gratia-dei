@@ -114,7 +114,7 @@
         "en": ""
     },
     "news-description-4": {
-        "pl": "po kilkumiesięcznym zastoju, wznawiamy prace nad spięciem dotychczasowych efektów naszej pracy w projektach „<a href=\"https://pl.mypatrons.org\">Moich Patronów</a>” i „<a href=\"https://pl.patrons.space\">Patrons Space</a>”, by projekty te mogły wreszcie ruszyć z miejsca pod sztandarem: „<a href=\"https://pl.gratiadei.org\">Gratia Dei</a>”.",
+        "pl": "po kilkumiesięcznym zastoju, wznawiamy prace nad spięciem dotychczasowych efektów naszej pracy w projektach „<a href=\"https://pl.mypatrons.org\">Moich Patronów</a>” i „Patrons Space”, by projekty te mogły wreszcie ruszyć z miejsca pod sztandarem: „<a href=\"https://pl.gratiadei.org\">Gratia Dei</a>”.",
         "en": ""
     },
     "news-description-5-header": {
@@ -123,6 +123,14 @@
     },
     "news-description-5": {
         "pl": "uruchamiamy pierwszą spójną wersję projektu „<a href=\"https://pl.mypatrons.org\">Moich Patronów</a>” dla szerszego grona Odbiorców. Jest jeszcze wiele do zrobienia, ale to jest dobry moment by wspólnie wypłynąć już na szersze wody!",
+        "en": ""
+    },
+    "news-description-6-header": {
+        "pl": "1 stycznia 2024:",
+        "en": ""
+    },
+    "news-description-6": {
+        "pl": "uruchamiamy nową wersję „<a href=\"https://pl.mypatrons.org\">Moich Patronów</a>” po połączeniu serwisów „My Patrons” i „Patrons Space” w jeden oraz całkowitym oparciu notowania na <a href=\"https://pl.mypatrons.org/notes\">elektronicznym notatniku</a>, co znacząco upraszcza udział w inicjatywie!",
         "en": ""
     },
 
@@ -160,19 +168,7 @@
         "en": "https://en.MyPatrons.org"
     },
     "projects-description-1": {
-        "pl": "Inicjatywa umożliwia każdemu zapraszanie świętych i błogosławionych Kościoła Katolickiego do grona swoich patronów. Darmowy i niezobowiązujący udział, poprzez różnorodne wyzwania i aktywności, otworzy nam szeroko drzwi do ogromnego bogactwa i piękna Kościoła. Każdego dnia na naszej drodze pojawiać się będą kolejni patroni, którzy będą zachęcać nas do ich zaproszenia i dalszego poznawania, do organizowania wypraw poszukiwawczych szlakiem relikwii, kościołów czy ołtarzy bocznych pod ich patronatem, ale przede wszystkich będą motywować do regularnego czytania Pisma Świętego, przyjmowania Sakramentów, adorowania Jezusa w Hostii ukrytego, trwania na modlitwie różańcowej i nie tylko.",
-        "en": "We apologize! At the moment this text is only available in <a href=\"https://pl.gratiadei.org#projekty\">Polish</a>."
-    },
-    "projects-description-2-header": {
-        "pl": "Patrons Space",
-        "en": "Patrons Space"
-    },
-    "projects-description-2-link": {
-        "pl": "https://pl.patrons.space",
-        "en": "https://en.patrons.space"
-    },
-    "projects-description-2": {
-        "pl": "To stale uzupełniana, wielojęzyczna baza wiedzy o wszystkich świętych i błogosławionych! Oprócz podstawowych informacji o nich, znajdziemy tu różne zestawienia, możliwość wglądu do oryginalnych treści martyrologiów rzymskich, a w powiązaniu z inicjatywą „Moich Patronów”, zbudujemy swoją własną talię kart kolekcjonerskich z patronami, aby grać z przyjaciółmi, układać samodzielnie lub oglądać w albumie.",
+        "pl": "Inicjatywa umożliwia każdemu zapraszanie świętych i błogosławionych Kościoła Katolickiego do grona swoich patronów. Darmowy i niezobowiązujący udział, poprzez różnorodne wyzwania i aktywności, otworzy nam szeroko drzwi do ogromnego bogactwa i piękna Kościoła. Każdego dnia na naszej drodze pojawiać się będą kolejni Patroni, którzy będą zachęcać nas do ich zaproszenia i dalszego poznawania, do organizowania wypraw poszukiwawczych szlakiem relikwii, kościołów czy ołtarzy bocznych pod ich patronatem, ale przede wszystkich będą motywować do regularnego czytania Pisma Świętego, przyjmowania Sakramentów, adorowania Jezusa w Hostii ukrytego, trwania na modlitwie różańcowej i nie tylko.<br /><br />To także stale uzupełniana, wielojęzyczna baza wiedzy o wszystkich świętych i błogosławionych! Oprócz podstawowych informacji o nich, znajdziemy tu różne zestawienia, możliwość wglądu do oryginalnych treści martyrologiów rzymskich, a w powiązaniu z inicjatywą „Moich Patronów”, zanotujemy nasze wyzwania i zbudujemy swoją własną talię kart kolekcjonerskich z patronami, aby grać z przyjaciółmi, układać samodzielnie lub oglądać w albumie.",
         "en": "We apologize! At the moment this text is only available in <a href=\"https://pl.gratiadei.org#projekty\">Polish</a>."
     },
 
