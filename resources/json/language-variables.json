@@ -1,7 +1,7 @@
 {
     "background-photo-attribution": {
-        "pl": "fot. Paul Zoetemeijer (<a href=\"https://unsplash.com/photos/fqa7yvnx280\">Unsplash</a>)",
-        "en": "photo by Paul Zoetemeijer (<a href=\"https://unsplash.com/photos/fqa7yvnx280\">Unsplash</a>)"
+        "pl": "",
+        "en": ""
     },
 
 
@@ -234,8 +234,8 @@
 
 
     "license": {
-        "pl": "Treść udostępniona na licencji <a href=\"#source-link-href##license\">CC BY-NC-SA 4.0</a>, jeśli nie podano inaczej.",
-        "en": "Content is available under <a href=\"#source-link-href##license\">CC BY-NC-SA 4.0</a> unless otherwise noted."
+        "pl": "Wszystkie prawa zastrzeżone",
+        "en": "All rights reserved"
     },
 
     "copyright": {
